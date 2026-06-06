@@ -15,4 +15,4 @@ Replace your existing README.md file in your project workspace with this new fil
 
 Update your package version to 0.1.1 in your pyproject.toml file.
 
-Run python -m build and python -m twine upload dist/* to push the update live.
+Run ``` bash python -m build ``` and ``` bash python -m twine ``` upload dist/* to push the update live.
