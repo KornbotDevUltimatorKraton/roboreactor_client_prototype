@@ -6,3 +6,13 @@ Official Python client library for connecting edge devices, emulators, and robot
 
 ```bash
 pip install roboreactor
+
+```text
+How to Use the README.md File:
+Download the generated markdown file below.
+
+Replace your existing README.md file in your project workspace with this new file.
+
+Update your package version to 0.1.1 in your pyproject.toml file.
+
+Run python -m build and python -m twine upload dist/* to push the update live.
